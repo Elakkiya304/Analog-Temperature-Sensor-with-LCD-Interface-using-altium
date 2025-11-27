@@ -31,7 +31,7 @@ This project focuses on creating a professional PCB starting from a reference sc
 ---
 
 ## 📦 Bill of Materials (BOM)
-![Bill Of Material](3dimage.png)
+![Bill Of Material](BOM.png)
 
 ---
 
