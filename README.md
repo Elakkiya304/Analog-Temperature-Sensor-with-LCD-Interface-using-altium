@@ -16,40 +16,22 @@ This project focuses on creating a professional PCB starting from a reference sc
 ---
 
 ## 🛠️ Designed Circuit (Schematic)
-- 🧩 All components chosen according to design requirements  
-- 🔌 Proper decoupling capacitors included  
-- ⚡ Noise-free grounding techniques applied  
-- 🔄 Stability and safety components added  
-
-The schematic is verified through ERC checks.
+![Designed Circuit](3dimage.png)
 
 ---
 
 ## 🧵 Routing Details
-Routing is done following PCB design rules:
-- 🟥 Top layer for main signals  
-- 🟦 Bottom layer as ground plane  
-- 🔄 Optimized via placement  
-- 🛣️ Trace width calculated according to current  
-- ⚡ High-speed signals kept short  
-- 🎯 Components placed to minimize routing complexity  
+![Routing](3dimage.png)
 
 ---
 
 ## 🧊 3D PCB View
 ![3D View](3dimage.png)
+
 ---
 
 ## 📦 Bill of Materials (BOM)
-
-| S.No | Component | Value/Part No. | Qty | Package |
-|------|-----------|----------------|-----|---------|
-| 1 | Resistor | 10kΩ | 3 | 0805 |
-| 2 | Capacitor | 100nF | 2 | 0805 |
-| 3 | Microcontroller / IC | [IC Name] | 1 | SMD/DIP |
-| 4 | Diode | 1N4148 | 1 | SMD |
-| 5 | Connector | 2-Pin/3-Pin | As req. | Header |
-| 6 | Others | — | — | — |
+![Bill Of Material](3dimage.png)
 
 ---
 
