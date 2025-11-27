@@ -36,7 +36,7 @@ Routing is done following PCB design rules:
 ---
 
 ## 🧊 3D PCB View
-![3D View](3d_image.png)
+![3D View](3dimage.png)
 ---
 
 ## 📦 Bill of Materials (BOM)
