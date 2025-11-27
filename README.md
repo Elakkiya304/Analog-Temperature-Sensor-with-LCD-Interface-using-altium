@@ -16,7 +16,7 @@ This project focuses on creating a professional PCB starting from a reference sc
 ---
 
 ## 🛠️ Designed Circuit (Schematic)
-![Designed Circuit](3dimage.png)
+![Designed Circuit](designedcircuit.png)
 
 ---
 
