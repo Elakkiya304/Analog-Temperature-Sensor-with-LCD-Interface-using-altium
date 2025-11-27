@@ -11,6 +11,7 @@ This project focuses on creating a professional PCB starting from a reference sc
 ---
 
 ## 📡 Reference Circuit
+![Reference Circuit](referencecircuit.png)
 
 ---
 
