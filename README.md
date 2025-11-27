@@ -21,7 +21,7 @@ This project focuses on creating a professional PCB starting from a reference sc
 ---
 
 ## 🧵 Routing Details
-![Routing](3dimage.png)
+![Routing](pcb routing.png)
 
 ---
 
