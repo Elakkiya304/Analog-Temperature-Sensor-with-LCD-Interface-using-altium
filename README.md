@@ -37,6 +37,5 @@ This project focuses on creating a professional PCB starting from a reference sc
 
 ## ✅ Conclusion
 This PCB project successfully converts a reference schematic into a well-designed, manufacturable PCB. All stages—schematic creation, routing, 3D validation, and BOM generation—ensure the final board is reliable and production-ready.  
-✨ The PCB is now ready for prototyping or real-world application!
 
 ---
